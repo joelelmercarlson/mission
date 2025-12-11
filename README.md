@@ -13,8 +13,17 @@ computing better for everyone.
 
 ## Association
 
-1. The members are world-class engineers and architects which focus on difficult problems.
-1. The members develop and build solutions in the following areas: disaster recovery, business continuity, data-governance, cloud migration &amp; hosing.
+1. The members are world-class architects, engineers and developers which focus on really difficult problems.
+1. The members architect, engineer and develop solutions in following domains:
+
+<ul>
+<li>disaster recovery
+<li>business continuity
+<li>data-governance
+<li>artifical-intelligence
+<li>cloud migration &amp; hosing
+</ul>
+
 1. Members and affiliates provide client services utilizing our AoT core capabilities.
 
 ## Who do we serve
