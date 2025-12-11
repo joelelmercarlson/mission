@@ -14,27 +14,27 @@ are secure, sustainable, and equitably shared by all.
 
 # Core Values
 
-## Equity in Access
+### Equity in Access
 We champion universal access to computing as a fundamental human right,
 ensuring technology benefits everyone regardless of geography or status.
 
-## Innovation with Purpose
+### Innovation with Purpose
 We drive cutting-edge advancements in enterprise compute, cloud, and AI
 to solve real-world challenges and create meaningful impact.
 
-## Global Collaboration
+### Global Collaboration
 We foster partnerships across borders, cultures, and disciplines to
 share knowledge and accelerate progress collectively.
 
-## Ethical Responsibility
+### Ethical Responsibility
 We uphold integrity, transparency, and fairness in all technological
 practices, prioritizing human dignity and societal well-being.
 
-## Sustainability
+### Sustainability
 We commit to environmentally responsible solutions that balance
 technological growth with the health of our planet.
 
-## Security and Trust
+### Security and Trust
 We ensure that computing and AI systems are secure, reliable, and built
 to protect privacy and data integrity.
 
