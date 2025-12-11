@@ -38,20 +38,32 @@ technological growth with the health of our planet.
 We ensure that computing and AI systems are secure, reliable, and built
 to protect privacy and data integrity.
 
-# Membership
+# Membership Alignment
 
-1. The members are world-class architects, engineers and developers which focus on really difficult problems.
-1. Members and affiliates provide client services utilizing our AoT core capabilities.
-1. Members architect, engineer and develop solutions in following domains:
-<ul>
-<li>Artifical intelligence
-<li>Cloud migration &amp; hosing
-<li>Hyper-scale &amp; enterprise compute
-<li>Disaster recovery
-<li>Business continuity
-<li>Data-governance &amp; data-backup retention
-</ul>
+### Alignment with Vision and Values
+Our members are world-class architects, engineers, and developers who
+embody the Academy’s commitment to innovation with purpose and global
+collaboration. By focusing on the most challenging problems in technology,
+they advance our vision of a world where computing empowers everyone.
 
+### Client Services with AoT Core Capabilities
+Members and affiliates deliver solutions that reflect our values
+of equity, security, and ethical responsibility, ensuring clients
+benefit from cutting-edge technology that is accessible, reliable,
+and sustainable.
+
+### Domains of Expertise
+Each domain reinforces our mission to make computing a fundamental human right:
+
+1. Artificial Intelligence – Driving responsible AI innovation to create equitable opportunities.
+1. Cloud Migration & Hosting – Enabling global access to scalable, secure infrastructure.
+1. Hyper-scale & Enterprise Compute – Building resilient systems that support business continuity and growth.
+1. Disaster Recovery & Business Continuity – Safeguarding operations to uphold trust and security.
+1. Data Governance & Backup Retention – Protecting data integrity and privacy in alignment with ethical standards.
+
+Through these capabilities, members exemplify sustainability, security,
+and innovation, ensuring that technology serves humanity responsibly
+and inclusively.
 
 # Who do we serve
 1. Enterprise
