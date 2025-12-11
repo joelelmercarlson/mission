@@ -9,7 +9,7 @@ computing better for everyone.
 1. The promotion and advancement of Computing engineering and architecture.
 1. The promotion and advancement of Computing solutions at scale.
 1. The promotion and advancement of Computing as an international shared-responsibility.
-1. The knowledge of Computing is a universal and basic human right. 
+1. Computing is a universal and basic human right. 
 
 ## Association
 
