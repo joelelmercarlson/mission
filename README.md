@@ -1,19 +1,23 @@
 # Mission Statement
 
-The Academy of Technology (AoT) is an international group of dedicated
-computing professionals who have a shared purpose and belief of making
-computing better for everyone.
+The Consultancy excersizes professional skills in
+collaboration with other exceptional practitioners to creatively solve
+difficult and engaging problems for our clients. Our engineers use
+their deep expertise and problem-solving skills to make the difference,
+by applying techniques in infrastructure and software design and
+architecture, using up to date and innovative methods
 
-# Vision Statement
-
-To create a world where universal access to computing empowers every
-individual and organization to innovate, connect, and thrive. We envision
-a future where global collaboration and ethical technology ensure that
-the benefits of enterprise compute, cloud, and artificial intelligence
-are secure, sustainable, and equitably shared by all.
+# Solving the Hardest Problems, Together
+The Consultancy where exceptional practitioners collaborate to creatively
+solve the most complex and engaging client challenges. We envision a
+future where our expertise in enterprise compute, cloud, and artificial
+intelligence transforms difficult problems into innovative, sustainable
+solutions—empowering organizations to thrive. By applying cutting-edge
+techniques in infrastructure, software design, and architecture,
+we ensure that every solution reflects our commitment to excellence,
+ethics, and impact.
 
 # Core Values
-
 ### Equity in Access
 We champion universal access to computing as a fundamental human right,
 ensuring technology benefits everyone regardless of geography or status.
@@ -38,41 +42,35 @@ technological growth with the health of our planet.
 We ensure that computing and AI systems are secure, reliable, and built
 to protect privacy and data integrity.
 
-# Membership Alignment
+# Client Services
 
-### Alignment with Vision and Values
-Our members are world-class architects, engineers, and developers who
-embody the Academy’s commitment to innovation with purpose and global
-collaboration. By focusing on the most challenging problems in technology,
-they advance our vision of a world where computing empowers everyone.
-
-### Client Services with AoT Core Capabilities
-Members and affiliates deliver solutions that reflect our values
-of equity, security, and ethical responsibility, ensuring clients
+Our members are world-class architects, engineers, and developers
+who embody the Consultancy’s commitment to innovation with purpose
+and global collaboration. Our solutions reflect our values of equity,
+security, and ethical responsibility, ensuring clients
 benefit from cutting-edge technology that is accessible, reliable,
 and sustainable.
 
 ### Domains of Expertise
-Each domain reinforces our mission to make computing a fundamental human right:
-
-1. Artificial Intelligence – Driving responsible AI innovation to create equitable opportunities.
-1. Cloud Migration & Hosting – Enabling global access to scalable, secure infrastructure.
-1. Hyper-scale & Enterprise Compute – Building resilient systems that support business continuity and growth.
-1. Disaster Recovery & Business Continuity – Safeguarding operations to uphold trust and security.
-1. Data Governance & Backup Retention – Protecting data integrity and privacy in alignment with ethical standards.
+- Artificial Intelligence – Driving responsible AI innovation to create equitable opportunities.
+- Cloud Migration & Hosting – Enabling global access to scalable, secure infrastructure.
+- Hyper-scale & Enterprise Compute – Building resilient systems that support business continuity and growth.
+- Disaster Recovery & Business Continuity – Safeguarding operations to uphold trust and security.
+- Data Governance & Backup Retention – Protecting data integrity and privacy in alignment with regulatory standards.
 
 Through these capabilities, members exemplify sustainability, security,
 and innovation, ensuring that technology serves humanity responsibly
 and inclusively.
 
 # Who do we serve
-1. Enterprise
-1. Government
-1. Non-Profit &amp; social causes
-1. Education, students, users &amp; individual computing enthusiasts.
+Our clients have complexity they need to manage, interesting problems
+that need solutions, systems that need enhancement or integration,
+opportunities to engineer and build systems. We have successfully deployed
+large-scale systems to meet our clients automation, data collection and
+analysis, service provision.
 
 # Contact
 
-Lets talk about the mission.
+Lets talk about your project.
 
 &mdash; "Joel E Carlson" &lt;Joel.Elmer.Carlson@outlook.com&gt;
