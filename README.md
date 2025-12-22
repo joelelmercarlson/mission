@@ -16,34 +16,8 @@ organizations to thrive. By applying cutting-edge techniques in
 infrastructure, software design, and architecture, we ensure that every
 solution reflects our commitment to excellence, ethics, and impact.
 
-# Core Values
-### Equity in Access
-We champion universal access to computing as a fundamental human right,
-ensuring technology benefits everyone regardless of geography or status.
-
-### Innovation with Purpose
-We drive cutting-edge advancements in enterprise compute, cloud, and AI
-to solve real-world challenges and create meaningful impact.
-
-### Global Collaboration
-We foster partnerships across borders, cultures, and disciplines to
-share knowledge and accelerate progress collectively.
-
-### Ethical Responsibility
-We uphold integrity, transparency, and fairness in all technological
-practices, prioritizing human dignity and societal well-being.
-
-### Sustainability
-We commit to environmentally responsible solutions that balance
-technological growth with the health of our planet.
-
-### Security and Trust
-We ensure that computing and AI systems are secure, reliable, and built
-to protect privacy and data integrity.
-
 # Client Services
-
-Our members are world-class architects, engineers, and developers
+Our team is comprised of world-class architects, engineers, and developers
 who embody the Consultancy’s commitment to innovation with purpose
 and global collaboration. Our solutions reflect our values of equity,
 security, and ethical responsibility, ensuring clients
@@ -57,11 +31,7 @@ and sustainable.
 - Disaster Recovery & Business Continuity – Safeguarding operations to uphold trust and security.
 - Data Governance & Backup Retention – Protecting data integrity and privacy in alignment with regulatory standards.
 
-Through these capabilities, members exemplify sustainability, security,
-and innovation, ensuring that technology serves humanity responsibly
-and inclusively.
-
-# Who do we serve
+# Who do we serve?
 Our clients have complexity they need to manage, interesting problems
 that need solutions, systems that need enhancement or integration,
 opportunities to engineer and build systems. We have successfully deployed
